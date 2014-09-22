@@ -1,4 +1,5 @@
-##Resume
+Resume
+===============
 
 Note:First attempt on the github!
 
@@ -7,4 +8,3 @@ Note:First attempt on the github!
 * QQ:1393167377  
 * Address:HIT-Apartment2-Room6096
 
-i wish we can achieve ourselves together!
